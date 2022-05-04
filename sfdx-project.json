@@ -2,15 +2,17 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "versionName": "",
-            "versionNumber": "",
-            "dependencies": [],
             "default": true,
-            "package": ""
+            "package": "copadopackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
+    "name": "Packaging",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "54.0",
-    "packageAliases": {}
+    "packageAliases": {
+        "copadopackage": "0Ho8b000000blJiCAI"
+    }
 }
